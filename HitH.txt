@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 UserName:suganyaSK
 
 
@@ -8,6 +8,5 @@ try to commiting your changes before you publishing the branch
 
 1./The-Program/How-to-Customize
 2.The Science
-=======
+
 UserName:suganyaSK best
->>>>>>> f4ee5eb5abf86a7e95bb92ab0cb27b17fbe77e7c
